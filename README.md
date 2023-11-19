@@ -35,9 +35,7 @@ This script is designed to analyze and interpret social network data, focusing o
 <br> 
 
 **Requirements**
-
 <br>
-
 Python 3.x
 <br>
 Data files: names.txt, friends.csv
