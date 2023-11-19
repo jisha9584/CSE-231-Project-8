@@ -21,9 +21,7 @@ This script is designed to analyze and interpret social network data, focusing o
 <br>
 
 **Usage**
-
 <br>
-
 **Data Files:** Ensure the 'names.txt' and 'friends.csv' files are in the same directory as the script.
 <br>
 **Running the Script:** Execute the script in a Python environment.
