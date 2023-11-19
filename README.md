@@ -9,13 +9,13 @@ This script is designed to analyze and interpret social network data, focusing o
 <br>
 **Network Analysis:**
 <br>
-    <p> Find individuals with the most friends. <p>
+    <p> Find individuals with the most friends. 
     <br>
-    <p> Identify pairs with the most friends in common. <p>
+    <p> Identify pairs with the most friends in common.
     <br>
-    <p> Discover users with the most second-order friends. <p>
+    <p> Discover users with the most second-order friends.
     <br>
-    <p> Query a specific user's friends list. <p>
+    <p> Query a specific user's friends list. 
     <br>
 **Interactive Menu:** Provides a user-friendly menu for easy navigation and selection of different analysis options.
 <br>
