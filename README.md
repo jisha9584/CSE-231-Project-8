@@ -1,6 +1,7 @@
 # CSE-231-Project-8
 
 **Overview**
+<br>
 This script is designed to analyze and interpret social network data, focusing on friendship connections. It processes data from files to map out a network of friends and explore various aspects of social relationships.
 
 <br>
