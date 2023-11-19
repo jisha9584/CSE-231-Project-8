@@ -9,29 +9,38 @@ This script is designed to analyze and interpret social network data, focusing o
 <br>
 **Network Analysis:**
 <br>
-    <p> Find individuals with the most friends. 
+    Find individuals with the most friends. 
     <br>
-    <p> Identify pairs with the most friends in common.
+    Identify pairs with the most friends in common.
     <br>
-    <p> Discover users with the most second-order friends.
+    Discover users with the most second-order friends.
     <br>
-    <p> Query a specific user's friends list. 
+    Query a specific user's friends list. 
     <br>
 **Interactive Menu:** Provides a user-friendly menu for easy navigation and selection of different analysis options.
 <br>
 
-Usage
+**Usage**
+**Data Files:** Ensure the 'names.txt' and 'friends.csv' files are in the same directory as the script.
+<br>
+**Running the Script:** Execute the script in a Python environment.
+<br>
+**Menu Options:** Use the menu to select the type of network analysis.
+<br>
+**Querying Friends:** Option 4 allows users to enter a name and view their direct friends.
 
-Data Files: Ensure the 'names.txt' and 'friends.csv' files are in the same directory as the script.
-Running the Script: Execute the script in a Python environment.
-Menu Options: Use the menu to select the type of network analysis.
-Querying Friends: Option 4 allows users to enter a name and view their direct friends.
-Requirements
+<br> 
 
+**Requirements**
 Python 3.x
+<br>
 Data files: names.txt, friends.csv
-Ideal For
 
+<br>
+    
+**Ideal For:**
 Social network analysts exploring friendship dynamics.
+<br>
 Educational purposes for learning about data handling, dictionaries, and sets in Python.
+<br>
 Anyone interested in analyzing social structures in datasets.
