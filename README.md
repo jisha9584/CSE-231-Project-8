@@ -44,7 +44,6 @@ Data files: names.txt, friends.csv
     
 **Ideal For:**
 <br>
-
 Social network analysts exploring friendship dynamics.
 <br>
 Educational purposes for learning about data handling, dictionaries, and sets in Python.
