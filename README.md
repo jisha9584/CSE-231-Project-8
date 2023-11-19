@@ -2,6 +2,7 @@
 
 **Overview**
 This script is designed to analyze and interpret social network data, focusing on friendship connections. It processes data from files to map out a network of friends and explore various aspects of social relationships.
+
 <br>
 
 **Features**
@@ -18,6 +19,7 @@ This script is designed to analyze and interpret social network data, focusing o
     Query a specific user's friends list. 
     <br>
 **Interactive Menu:** Provides a user-friendly menu for easy navigation and selection of different analysis options.
+
 <br>
 
 **Usage**
